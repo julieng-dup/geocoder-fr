@@ -1,0 +1,21 @@
+{
+  "name": "geocoder-fr",
+  "version": "1.0.0",
+  "description": "Get latitude & longitude from address and/or address from latitude & longitude for French territory",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "test/test.js"
+  },
+  "keywords": [
+    "geocode",
+    "geocoding",
+    "reverse-geocode",
+    "reverse-geocoding",
+    "gps"
+  ],
+  "author": "Julieng",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
