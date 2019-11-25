@@ -15,6 +15,14 @@
   ],
   "author": "Julieng",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julieng-dup/geocoder-fr.git"
+  },
+  "bugs": {
+    "url": "https://github.com/julieng-dup/geocoder-fr/issues"
+  },
+  "homepage": "https://github.com/julieng-dup/geocoder-fr#readme",
   "dependencies": {
     "node-fetch": "^2.6.0"
   }
