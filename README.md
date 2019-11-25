@@ -1,8 +1,10 @@
 # geocoder-fr
 
-Geocoder & reverse-geocoder for French territory.
+Geocoder & reverse-geocoder for French territory. 
 
-No API key needed.
+• No API key is required, this package use French gouv opendata API.
+• Requests results are geojson formated.
+• All package function are async. 
 
 ## Usage
 

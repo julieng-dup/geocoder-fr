@@ -14,7 +14,8 @@
     "gps",
     "opendata",
     "France",
-    "react"
+    "react",
+    "geojson"
   ],
   "author": "Julieng",
   "license": "MIT",
