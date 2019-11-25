@@ -2,9 +2,10 @@
 
 Geocoder & reverse-geocoder for French territory. 
 
-• No API key is required, this package use French gouv opendata API.
-• Requests results are geojson formated.
-• All package function are async. 
+* No API key is required, this package use French gouv opendata API.
+* Requests results are geojson formated.
+* All package function are async.
+* This package can be used with node or react 
 
 ## Usage
 
