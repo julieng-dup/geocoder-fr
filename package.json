@@ -13,7 +13,8 @@
     "reverse-geocoding",
     "gps",
     "opendata",
-    "France"
+    "France",
+    "react"
   ],
   "author": "Julieng",
   "license": "MIT",
