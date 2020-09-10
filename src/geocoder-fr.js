@@ -40,7 +40,12 @@ class GeocoderFr {
             return null;
         }
 
-        return {long: data.features[0].properties.x, lat: data.features[0].properties.y};
+        return {
+            x: data.features[0].properties.x,
+            y: data.features[0].properties.y,
+            long: data.features[0].geometry.coordinates[0],
+            lat: data.features[0].geometry.coordinates[1]
+        };
     }
 
     /**
