@@ -1,6 +1,6 @@
 {
   "name": "geocoder-fr",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Geocoder & reverse-geocoder for French territory.",
   "main": "src/index.js",
   "scripts": {
