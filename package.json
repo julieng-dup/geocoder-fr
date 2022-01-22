@@ -28,6 +28,6 @@
   },
   "homepage": "https://github.com/julieng-dup/geocoder-fr#readme",
   "dependencies": {
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^3.1.1"
   }
 }
